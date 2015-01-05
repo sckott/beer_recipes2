@@ -1,0 +1,74 @@
+---
+layout: default
+---
+
+<div class="post">
+  <h1 class="post-title">{{ page.title }}</h1>
+  <span class="post-date">{{ page.date | date_to_string }}</span>
+
+  <h5><span class="fa-stack">
+    <i class="fa fa-circle fa-stack-2x"></i>
+    <i class="fa fa-calendar fa-stack-1x fa-inverse"></i>
+  </span>
+  <small>made on: </small>{{ page.datemadeon }}</h5>
+
+  <h5>
+  <span class="fa-stack">
+    <i class="fa fa-circle fa-stack-2x"></i>
+    <i class="fa fa-calendar fa-stack-1x fa-inverse fa-rotate-180"></i>
+  </span>
+  <small>2<sup>o</sup> fermentation on: </small>{{ page.datesecondferm }}</h5>
+
+  <h5>
+    <span class="fa-stack">
+      <i class="fa fa-circle fa-stack-2x"></i>
+      <i class="fa fa-calendar fa-stack-1x fa-inverse fa-rotate-270"></i>
+  </span>
+  <small>bottled on: </small>{{ page.datebottled }} </h5>
+
+  <h5>
+    <span class="fa-stack">
+      <i class="fa fa-circle fa-stack-2x"></i>
+      <i class="fa fa-signal fa-stack-1x fa-inverse fa-rotate-270"></i>
+  </span>
+  <small>volume (gal): </small>{{ page.volume }} </h5>
+
+  <h5>
+    <span class="fa-stack">
+      <i class="fa fa-circle fa-stack-2x"></i>
+      <i class="fa fa-flask fa-stack-1x fa-inverse"></i>
+    </span>
+  <small>original gravity: </small>{{ page.gravity_one }}</h5>
+
+  <h5>
+    <span class="fa-stack">
+      <i class="fa fa-circle fa-stack-2x"></i>
+      <i class="fa fa-flask fa-stack-1x fa-inverse"></i>
+    </span>
+  <small>final gravity: </small>{{ page.gravity_two }}</h5>
+
+  <h5>
+    <span class="fa-stack">
+      <i class="fa fa-circle fa-stack-2x"></i>
+      <i class="fa fa-beer fa-stack-1x fa-inverse"></i>
+    </span>
+  <small>ABV: </small>{{ page.gravity_one | minus: page.gravity_two | times: 131.25 }}</h5>
+
+  {{ content }}
+</div>
+
+<div class="related">
+  <h2>Related Posts</h2>
+  <ul class="related-posts">
+    {% for post in site.related_posts limit:3 %}
+      <li>
+        <h3>
+          <a href="{{ site.baseurl }}{{ post.url }}">
+            {{ post.title }}
+            <small>{{ post.date | date_to_string }}</small>
+          </a>
+        </h3>
+      </li>
+    {% endfor %}
+  </ul>
+</div>
