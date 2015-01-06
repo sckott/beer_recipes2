@@ -4,7 +4,7 @@
  <title>scott's beer recipes</title>
  <link href="/atom.xml" rel="self"/>
  <link href="/"/>
- <updated>2015-01-06T07:59:58-08:00</updated>
+ <updated>2015-01-06T08:34:35-08:00</updated>
  <id></id>
  <author>
    <name>Scott Chamberlain</name>
@@ -50,9 +50,9 @@
  
  <entry>
    <title>Brooklyn Pennant Ale '55 v0.3</title>
-   <link href="/2015/01/04/brooklyn-pennant-ale_v0.3/"/>
+   <link href="/recipe/2015/01/04/brooklyn-pennant-ale_v0.3/"/>
    <updated>2015-01-04T00:00:00-08:00</updated>
-   <id>/2015/01/04/brooklyn-pennant-ale_v0.3</id>
+   <id>/recipe/2015/01/04/brooklyn-pennant-ale_v0.3</id>
    <content type="html">&lt;p&gt;This is a clone of Brooklyn Pennant Ale pale ale from the book &lt;a href=&quot;http://www.amazon.com/CloneBrews-Homebrew-Recipes-Commercial-Beers/dp/1580170773&quot;&gt;CloneBrews: Homebrew Recipes for 150 Commercial Beers&lt;/a&gt;. &lt;/p&gt;
 
 &lt;p&gt;This is v0.3 of this clone. Made &lt;code&gt;v0.1&lt;/code&gt; on &lt;a href=&quot;http://recology.info/beer_recipes/2013-05-27-brooklyn-pennant-ale_V0.1.html&quot;&gt;2013-05-27&lt;/a&gt;, and &lt;code&gt;v0.2&lt;/code&gt; on &lt;a href=&quot;http://recology.info/beer_recipes/2014/01/05/brooklyn-pennant-ale_v0.2/&quot;&gt;2014-01-05&lt;/a&gt; - nearly one year ago to the day! &lt;code&gt;v0.3&lt;/code&gt; is similar to &lt;code&gt;v0.2&lt;/code&gt; in that I&amp;#39;m using Nugget and Saaz hops instead of Fuggles and Willamette, but using, as recipe states, the 3 other hops (Perle, German Hallertau, Cascade). &lt;/p&gt;
@@ -120,9 +120,9 @@
  
  <entry>
    <title>Brooklyn Pennant Ale '55 v0.2</title>
-   <link href="/2014/01/05/brooklyn-pennant-ale_v0.2/"/>
+   <link href="/recipe/2014/01/05/brooklyn-pennant-ale_v0.2/"/>
    <updated>2014-01-05T00:00:00-08:00</updated>
-   <id>/2014/01/05/brooklyn-pennant-ale_v0.2</id>
+   <id>/recipe/2014/01/05/brooklyn-pennant-ale_v0.2</id>
    <content type="html">&lt;p&gt;This is a clone of Brooklyn Pennant Ale pale ale from the book [CloneBrews: Homebrew Recipes for 150 Commercial Beers][book]. &lt;/p&gt;
 
 &lt;p&gt;This is v0.2 of this clone. Made v0.1 on &lt;a href=&quot;http://recology.info/beer_recipes/2013-05-27-brooklyn-pennant-ale_V0.1.html&quot;&gt;2013-05-27&lt;/a&gt;. There are some definite differences from v0.1 of this recipe - I forgot to get the extra few ounces of crystal and aromatic malts at the brew shop, and I bought Nugget and Saaz hops in bulk pellets a while back, so just using those in this recipe instead of the suggested mix of 5 different varietals. &lt;/p&gt;
@@ -186,9 +186,9 @@
  
  <entry>
    <title>Cascadian IPA</title>
-   <link href="/2013/06/16/cascadian-ipa/"/>
+   <link href="/recipe/2013/06/16/cascadian-ipa/"/>
    <updated>2013-06-16T00:00:00-07:00</updated>
-   <id>/2013/06/16/cascadian-ipa</id>
+   <id>/recipe/2013/06/16/cascadian-ipa</id>
    <content type="html">&lt;p&gt;From &lt;a href=&quot;http://forum.northernbrewer.com/viewtopic.php?f=1&amp;amp;t=109879&quot;&gt;here&lt;/a&gt;. Original recipe called it a Cascadian Dark Ale.&lt;/p&gt;
 
 &lt;h3&gt;Ingredients&lt;/h3&gt;
@@ -273,9 +273,9 @@
  
  <entry>
    <title>Brooklyn Pennant Ale '55 v0.1</title>
-   <link href="/2013/06/13/brooklyn-pennant-ale_V0.1/"/>
+   <link href="/recipe/2013/06/13/brooklyn-pennant-ale_V0.1/"/>
    <updated>2013-06-13T00:00:00-07:00</updated>
-   <id>/2013/06/13/brooklyn-pennant-ale_V0.1</id>
+   <id>/recipe/2013/06/13/brooklyn-pennant-ale_V0.1</id>
    <content type="html">&lt;p&gt;This is a clone of Brooklyn Pennant Ale pale ale from the book &lt;a href=&quot;http://www.amazon.com/CloneBrews-Homebrew-Recipes-Commercial-Beers/dp/1580170773&quot;&gt;CloneBrews: Homebrew Recipes for 150 Commercial Beers&lt;/a&gt;. &lt;/p&gt;
 
 &lt;h3&gt;Ingredients:&lt;/h3&gt;
@@ -345,9 +345,9 @@
  
  <entry>
    <title>Petrus Tripel</title>
-   <link href="/2013/05/27/petrus-tripel/"/>
+   <link href="/recipe/2013/05/27/petrus-tripel/"/>
    <updated>2013-05-27T00:00:00-07:00</updated>
-   <id>/2013/05/27/petrus-tripel</id>
+   <id>/recipe/2013/05/27/petrus-tripel</id>
    <content type="html">&lt;p&gt;This was a clone of Petrus Tripel from the book &lt;a href=&quot;http://www.amazon.com/CloneBrews-Homebrew-Recipes-Commercial-Beers/dp/1580170773&quot;&gt;CloneBrews: Homebrew Recipes for 150 Commercial Beers&lt;/a&gt;. &lt;/p&gt;
 
 &lt;p&gt;Recipe:&lt;/p&gt;
@@ -420,9 +420,9 @@
  
  <entry>
    <title>DogFish Head 60min IPA</title>
-   <link href="/2013/03/18/dogfishhead-60min/"/>
+   <link href="/recipe/2013/03/18/dogfishhead-60min/"/>
    <updated>2013-03-18T00:00:00-07:00</updated>
-   <id>/2013/03/18/dogfishhead-60min</id>
+   <id>/recipe/2013/03/18/dogfishhead-60min</id>
    <content type="html">&lt;p&gt;This was a clone of Dogfish Head&amp;#39;s 60 minute IPA from the book &lt;a href=&quot;http://www.amazon.com/CloneBrews-Homebrew-Recipes-Commercial-Beers/dp/1580170773&quot;&gt;CloneBrews: Homebrew Recipes for 150 Commercial Beers&lt;/a&gt;. &lt;/p&gt;
 
 &lt;p&gt;recipe to come....&lt;/p&gt;
@@ -431,9 +431,9 @@
  
  <entry>
    <title>F.H. Steinbart IPA</title>
-   <link href="/2013/01/30/fhsteinbart-ipa/"/>
+   <link href="/recipe/2013/01/30/fhsteinbart-ipa/"/>
    <updated>2013-01-30T00:00:00-08:00</updated>
-   <id>/2013/01/30/fhsteinbart-ipa</id>
+   <id>/recipe/2013/01/30/fhsteinbart-ipa</id>
    <content type="html">&lt;h3&gt;Stock IPA recipe kit from F.H. Steinbart in Potland, OR&lt;/h3&gt;
 
 &lt;p&gt;This was a kit recipe from the homebrew store &lt;a href=&quot;http://www.fhsteinbart.com/&quot;&gt;F.H. Steinbart&lt;/a&gt; in Portland, OR, where I bought my beer brewing tools last August (everything&amp;#39;s cheaper in the states). &lt;/p&gt;

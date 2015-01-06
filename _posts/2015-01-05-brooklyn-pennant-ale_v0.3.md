@@ -10,6 +10,8 @@ gravity_one: 1.xx
 gravity_two: 1.xx
 datesecondferm: 2015-01-xx
 datebottled: 2015-01-xx
+categories:
+- recipe
 tags: 
 - ale
 - pale ale

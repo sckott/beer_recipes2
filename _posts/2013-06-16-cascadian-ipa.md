@@ -10,10 +10,13 @@ gravity_one: 1.062
 gravity_two: 1.010
 datesecondferm: 2013-06-22
 datebottled: 2013-06-28
+categories:
+- recipe
 tags: 
 - ale
 - IPA
 - cascadian
+- recipe
 ---
 
 From [here](http://forum.northernbrewer.com/viewtopic.php?f=1&t=109879). Original recipe called it a Cascadian Dark Ale.
