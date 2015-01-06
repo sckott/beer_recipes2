@@ -1,5 +1,3 @@
 # `Beer recipes` 
 
-These are beer recipes. I am learning, sooo....yeah. 
-
-Anyway, use if you want!  
+Moved back to [sckott/beer_recipes](https://github.com/sckott/beer_recipes)
