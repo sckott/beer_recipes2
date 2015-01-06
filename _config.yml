@@ -12,7 +12,7 @@ relative_permalinks: true
 title:               scott's
 tagline:             'beer recipes'
 description:         'my beer recipes'
-baseurl:             /
+baseurl:             /beer_recipes2/
 paginate:            3
 
 # About/contact
