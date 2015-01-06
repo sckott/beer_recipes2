@@ -9,8 +9,8 @@ permalink:           pretty
 relative_permalinks: true
 
 # Setup
-title:               scott's
-tagline:             'beer recipes'
+title:               scott's beer recipes
+tagline:             'yum'
 description:         'my beer recipes'
 baseurl:             /beer_recipes2/
 paginate:            3
